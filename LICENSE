@@ -1,0 +1,58 @@
+Enhanced Drone Countermeasure System — Ethical Use & Research License (EURL) v1.0
+Copyright (c) 2025 Giridhar S, Tharun G
+
+1. GRANT OF LICENSE
+Permission is granted, free of charge, to any person obtaining a copy of this
+software and associated documentation (the "Software") to use, copy, study,
+and modify the Software, subject to ALL of the conditions below.
+
+2. PERMITTED USE
+The Software may only be used for:
+   a) Academic research and education;
+   b) Authorized penetration testing or security assessments where the
+      tester has documented, explicit written permission from the owner
+      or operator of the target network/device;
+   c) Testing against hardware/networks the user personally owns and
+      controls, in a controlled, non-public environment.
+
+3. PROHIBITED USE
+The following uses are strictly PROHIBITED under this license:
+   a) Deploying the Software against any network, device, or drone
+      (UAV) that you do not own and are not explicitly authorized in
+      writing to test;
+   b) Any use that disrupts, disables, or interferes with wireless
+      communications belonging to third parties without consent;
+   c) Any use intended to facilitate surveillance, stalking, harassment,
+      theft, smuggling, terrorism, or any other unlawful or malicious
+      activity;
+   d) Use against critical infrastructure, medical devices, aviation
+      systems, emergency services, or government/military systems
+      without prior lawful authorization;
+   e) Commercial resale or commercial deployment of the Software or any
+      derivative product without a separate written agreement with the
+      copyright holders;
+   f) Removing or obscuring this license, the disclaimer, or the
+      attribution to the original authors from any copy or derivative
+      of the Software.
+
+4. NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+5. LIMITATION OF LIABILITY
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES, LEGAL CONSEQUENCE, OR OTHER LIABILITY ARISING FROM USE OR MISUSE OF
+THE SOFTWARE, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE.
+
+6. TERMINATION
+Any use in violation of Section 3 automatically terminates the rights
+granted under this license, effective immediately and without notice.
+
+7. GOVERNING LAW
+Users are solely responsible for ensuring their use of the Software
+complies with the laws of their jurisdiction, including but not limited to
+wireless interference, computer misuse, and aviation regulations.
+
+By downloading, cloning, or using this Software, you acknowledge that you
+have read, understood, and agree to be bound by the terms above.

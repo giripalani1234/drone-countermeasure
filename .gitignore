@@ -1,0 +1,19 @@
+# Captured wireless data - may contain real SSIDs/BSSIDs/handshakes from testing
+*.cap
+*.pcap
+*.pcapng
+*wpa-*.cap
+dayz*
+
+# Any config file where you might store real network names for personal testing
+config.local.sh
+*.env
+.env
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+
+# Logs
+*.log
